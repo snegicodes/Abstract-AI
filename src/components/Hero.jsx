@@ -1,5 +1,5 @@
 import { logo } from "../assets";
-import { AiFillGithub } from "react-icons/Ai";
+import { AiFillGithub } from "react-icons/ai";
 
 const Hero = () => {
   return (
