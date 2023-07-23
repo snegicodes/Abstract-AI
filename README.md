@@ -1,8 +1,17 @@
-# React + Vite
+# Abstract AI
+<strong>AI-Driven Article Summarisation Tool</strong>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img src="https://abstract-ai.vercel.app/assets/logo-ad641fa3.png" alt="Abstract AI Logo" width="300"/>
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<li> <em><strong>Abstract AI</strong></em>  is a powerful article summarization tool that provides concise summaries of articles using the Rapid API's Article Extractor and Summarizer API.
+<li>With Abstract AI, you can quickly extract key information and main points from lengthy articles, saving you time and effort in processing vast amounts of text.
+
+## Technologies Used 🚀
+
+- **React JS (Vite)**
+- **Redux Toolkit**
+- **Tailwind CSS**
+- **Vercel**
+
+## [Link to the API 🔗](https://rapidapi.com/restyler/api/article-extractor-and-summarizer)
