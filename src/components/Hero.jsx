@@ -1,11 +1,11 @@
 import { logo } from "../assets";
-import { AiFillGithub } from "react-icons/ai";
+import { AiFillGithub } from "react-icons/Ai";
 
 const Hero = () => {
   return (
     <header className="w-full flex justify-center items-center flex-col">
       <nav className="flex justify-between items-center w-full mb-10 pt-3">
-        <img src={logo} alt="abstract_logo" className="w-40 object-contain" />
+        <img src={logo} alt="abstract_logo" className="h-16 object-contain" />
         <button
           type="button"
           onClick={() =>
